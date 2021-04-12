@@ -10,7 +10,9 @@ STEP 1: Change the user name in play_handcricket file
 STEP 2: Move hand_cricket file to /usr/bin
 
 
-STEP 3: Now open terminal and play the game just by entering the command > play_handcricket
+STEP 3: Give execution permission to the file. You can do it by command: chmod +x /usr/bin/play_handcricket
+
+STEP 4: Now open terminal and play the game just by entering the command > play_handcricket
 
 
  
