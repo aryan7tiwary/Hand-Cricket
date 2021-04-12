@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/aryan
+cd /home/<enter your host name here>
 exec java hand_cricket.java
