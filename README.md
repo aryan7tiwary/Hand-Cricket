@@ -4,15 +4,19 @@ This is the famous "Hand Cricket" game coded in JAVA. You can play it on any ter
 
 HOW TO PLAY THIS GAME ON A LINUX MACHINE USNIG A COMMAND IN TERMINAL!
 
-STEP 1: Change the user name in play_handcricket file
+STEP 1: Copy the file using command > Git clone https://github.com/aryan7tiwary/Hand-Cricket 
 
 
-STEP 2: Move hand_cricket file to /usr/bin
+STEP 2: Change the user name in play_handcricket file
 
 
-STEP 3: Give execution permission to the file. You can do it by command: chmod +x /usr/bin/play_handcricket
+STEP 3: Move hand_cricket file to /usr/bin
 
-STEP 4: Now open terminal and play the game just by entering the command > play_handcricket
+
+STEP 4: Give execution permission to the file. You can do it by command: chmod +x /usr/bin/play_handcricket
+
+
+STEP 5: Now open terminal and play the game just by entering the command > play_handcricket
 
 
  
