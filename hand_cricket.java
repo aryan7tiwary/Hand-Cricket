@@ -106,6 +106,7 @@ public class hand_cricket
 							System.out.println("The match was tied");
 						}
 				}
+				break;
 			}
 			//For 2 players
 			case 2:	
