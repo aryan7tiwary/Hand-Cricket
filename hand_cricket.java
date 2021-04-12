@@ -97,6 +97,7 @@ public class hand_cricket
 							{
 								System.out.println("You lost as you failed to out the computer");
 								break;
+								
 							}
 						}
 					}
