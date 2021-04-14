@@ -29,3 +29,6 @@ STEP 5: Now open terminal and play the game just by entering the command > play_
 
 
  
+You may also play it just by executing the file hand_cricket.java with JAVA.
+Eg- java hand_cricket.java
+Or. ./hand_cricket.java
